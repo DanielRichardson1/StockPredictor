@@ -1,19 +1,10 @@
-# Stock Predictor
+# Stock Predictor: Beating the S&P500
 
-## Description
+picture
 
-This machine learning model predicts if the S&P500 will increase tomorrow (stock market close to stock market close). 
+banners
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+**Stock Predictor** is a machine learning model that predicts if the S&P500 will increase from stock market close today to stock market close tomorrow using a random forest classifier and the entire history of the S&P500.
 
 ## Installation
 
@@ -28,7 +19,3 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
-
-## License
-
-MIT License Copyright (c) 2024 Daniel Richardson
