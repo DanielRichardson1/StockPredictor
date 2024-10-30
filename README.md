@@ -1,6 +1,7 @@
 # Stock Predictor: Beating the S&P500
 
-picture
+![DALLE2024-10-2920 09 50-AmodernandsleekappinterfacemockupforastockpredictorappcalledStockPredictorfocusedonoutperformingtheSP500 Theinterfaceshows-ezgif com-webp-to-jpg-converter](https://github.com/user-attachments/assets/b260d81a-157d-4d99-85c8-a3d9df66db20)
+
 
 banners
 
