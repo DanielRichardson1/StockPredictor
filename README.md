@@ -1,9 +1,8 @@
 # Stock Predictor: Beating the S&P500
 
-![DALLE2024-10-2920 09 50-AmodernandsleekappinterfacemockupforastockpredictorappcalledStockPredictorfocusedonoutperformingtheSP500 Theinterfaceshows-ezgif com-webp-to-jpg-converter](https://github.com/user-attachments/assets/b260d81a-157d-4d99-85c8-a3d9df66db20)
+<img src="https://github.com/user-attachments/assets/b260d81a-157d-4d99-85c8-a3d9df66db20" width="200">
 
 
-banners
 
 **Stock Predictor** is a machine learning model that predicts if the S&P500 will increase from stock market close today to stock market close tomorrow using a random forest classifier and backtesting. With backtesting we can see that since 1993, the model has beaten the S&P500 by almost 3%.
 
