@@ -13,8 +13,43 @@
 
 ## Install
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+1. **Download and Install Python:**
 
+   Ensure you have the last Python version  installed. If not, download and install it from Python's official website. For detailed instructions, refer to the tutorials:
+
+   - [How to Install Python on Windows](https://www.geeksforgeeks.org/how-to-install-python-on-windows/)
+   - [How to Install Python on Linux](https://www.geeksforgeeks.org/how-to-install-python-on-linux/)
+   - [How to Download and Install Python on macOS](https://www.geeksforgeeks.org/how-to-download-and-install-python-latest-version-on-macos-mac-os-x/)
+
+2. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/DanielRichardson1/StockPredictor.git
+   
+   cd StockPredictor
+   ```
+
+3. **Activate virtual environment:**
+
+   ```bash
+   python3 -m venv virtual
+   ```
+
+   ```bash
+   source virtual/bin/activate
+   ```
+
+   or for Windows-based machines -
+
+   ```bash
+   .\virtual\Scripts\activate
+   ```
+
+5. **Install the required packages:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
