@@ -59,3 +59,13 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
+# TODO
+tbd
+
+## Disclaimer
+
+This project, "Stock Predictor," is intended for educational and informational purposes only. It is a machine learning model designed to predict potential changes in the S&P500 index and is based on historical data and backtesting. The results and performance figures provided do not guarantee future results and should not be relied upon as financial or investment advice.
+
+### No Financial Advice
+
+The content and information in this repository, including predictions made by the model, do not constitute financial, investment, or trading advice. Users are solely responsible for any actions taken based on this model, and I am not liable for any decisions or losses incurred from using the information provided. Always consult with a qualified financial advisor or conduct thorough research before making any investment decisions.
