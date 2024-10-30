@@ -4,7 +4,7 @@ picture
 
 banners
 
-**Stock Predictor** is a machine learning model that predicts if the S&P500 will increase from stock market close today to stock market close tomorrow using a random forest classifier and the entire history of the S&P500. In this regard, it beats the S&P500 by about 3%.
+**Stock Predictor** is a machine learning model that predicts if the S&P500 will increase from stock market close today to stock market close tomorrow using a random forest classifier and backtesting. With backtesting we can see that the model has beaten the S&P500 by almost 3%.
 
 ## Installation
 
